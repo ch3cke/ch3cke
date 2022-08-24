@@ -11,9 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Go             46 mins         █████████████████████▒░░░   85.68 %
-Python         7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python         7 mins          █████████████████████████   99.60 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
